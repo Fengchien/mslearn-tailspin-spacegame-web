@@ -107,5 +107,5 @@ steps:
   displayName: 'Publish Artifact: drop'
   condition: succeeded()
 
-- script: echo The pipeline is finished!
+- script: echo The pipeline is finished!!
   condition: always()
